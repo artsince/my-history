@@ -1,0 +1,28 @@
+{
+  "name": "my-history",
+  "description": "remembers the order of things",
+  "version": "0.0.1",
+  "main": "history.js",
+  "author": {
+    "name": "Ahmet Kizilay",
+    "url": "https://github.com/artsince"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artsince/my-history.git"
+  },
+  "bugs": "https://github.com/artsince/my-history/issues",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "sinon": "^1.9.1",
+    "mocha": "^1.18.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
