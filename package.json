@@ -1,8 +1,8 @@
 {
   "name": "my-history",
   "description": "remembers the order of things",
-  "version": "0.0.1",
-  "main": "history.js",
+  "version": "1.0.0",
+  "main": "my-history.js",
   "author": {
     "name": "Ahmet Kizilay",
     "url": "https://github.com/artsince"
